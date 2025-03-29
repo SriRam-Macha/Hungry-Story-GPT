@@ -1,65 +1,69 @@
-# Creating "The Hungry International Student" Manga Panels
+# Hungry International Student - Manga Panel Creation
 
-This document explains the step-by-step creative process behind the colored manga panel series titled **"The Hungry International Student"**, featuring Priya, a young international student navigating her studies, homesickness, and hunger.
-
----
-
-## Concept & Storyline Development
-The idea originated from a relatable moment—an international student missing home, especially the comfort of homemade food and the love that comes with it. The storyline was broken down into seven simple and visually expressive panels:
-
-1. **Priya studying late and feeling hungry**  
-2. **Parents enjoying a delicious meal in India**  
-3. **Priya sending a cheeky message to her parents**  
-4. **Parents replying with concern**  
-5. **Priya asking for money for food**  
-6. **Parents agreeing to send money**  
-7. **Priya rejoicing upon receiving the money**
+This repository contains a short, colored manga-style comic titled **"The Hungry International Student"**. It follows Priya, an international student juggling academics and hunger pangs while studying abroad.
 
 ---
 
-## Character Consistency
-To maintain continuity, Priya was designed with key characteristics:
-- Long, dark brown hair
-- Glasses
-- Light brown/medium skin tone
-- Casual outfit (typically an orange shirt and blue jeans)
-- Expressive facial features
+## 📖 Story Overview
 
-These traits remained consistent throughout all illustrations.
+The story revolves around Priya, a tired student studying late into the evening, craving the comfort of a homemade Indian meal. Through a series of humorous and relatable events, she ends up getting money from her parents for food.
 
 ---
 
-## Art Style
-The visual theme followed a **clean, anime/manga-inspired style** with:
-- Soft shading and clear linework
-- Warm color palettes
-- Emotive expressions and dynamic poses
-- Speech/text bubbles for narration
+## 🖌️ Art Style & Tools Used
 
-The style enhances relatability and humor while keeping the tone light and warm.
+All the panels were generated using **AI-based image generation tools**, designed to maintain consistency in style, color palette, and character features. The style is inspired by modern colored anime/manga visuals, with a clean, warm tone.
 
----
-
-## Tooling & Generation Process
-Each panel was generated or enhanced using AI tools with careful prompt crafting to achieve:
-- Character pose and facial expressions that match the story beats
-- Accurate text within speech bubbles and on phone screens
-- Backgrounds that complement the indoor, student-apartment setting
-
-The sixth panel was generated specifically with the message from the parents: *"Of course, dear. Sending it now. 💵"*, matching the art style and character design of previous panels.
+### 🎨 Tools Used:
+- **DALL·E 3 via ChatGPT**: For generating panels based on detailed textual prompts
+- **Markdown**: For documentation
 
 ---
 
-## Final Touch
-The last panel was enhanced to replace the original speech bubble text with something more playful and in-character:  
-**"What should I order now?"**, reflecting Priya's cheeky yet relatable moment of joy.
+## 📋 Panel Descriptions & Prompts
+
+Each panel was conceptualized with a story-driven prompt. Here's a quick rundown:
+
+### **Panel 1: Setting the Scene**
+> Prompt: *"Priya sitting at her desk, exhausted from studying. Her stomach growls, and she looks at the clock showing 6:00 PM."*
+
+### **Panel 2: Photo from India**
+> Prompt: *"Priya’s phone screen shows a photo of her parents eating at a fancy restaurant in India. Priya's eyes are wide, and her mouth waters."*
+
+### **Panel 3: The Message**
+> Prompt: *"Close-up of Priya typing a message to her parents: ‘Where’s my party?’ Her face shows a playful but hungry expression."*
+
+### **Panel 4: Parents’ Response**
+> Prompt: *"Priya looks at her phone with a smirk as she reads the message from her parents: ‘What party? Are you okay? Do you need anything?’"*
+
+### **Panel 5: Priya’s Request**
+> Prompt: *"Priya types, ‘I need money for food.’ Her face is serious but playful."*
+
+### **Panel 6: The Parents’ Response**
+> Prompt: *"Priya’s phone screen shows a message from her parents: ‘Of course, dear. Sending it now.’ A dollar sign emoji is included."*
+
+### **Panel 7: The Happy Ending**
+> Prompt: *"Priya relaxes in her chair, smiling happily as she imagines ordering food. Her phone shows a notification saying the money has been sent."*
 
 ---
 
-## Creator’s Note
-> *"Every journey has its flavor—savor the moments, and let your heart be the chef of your story."*
+## ✏️ Creator's Note
 
-This story was made not just to entertain, but to resonate with every student who has ever missed home, craved their mom’s cooking, or felt the warm relief of support from afar.
+> "Every journey has its flavor—savor the moments, and let your heart be the chef of your story."
+
+This story is a lighthearted tribute to international students everywhere—may your cravings always be fulfilled and your Wi-Fi never lag.
 
 ---
 
+## 📁 Repo Contents
+- `panels/` — Folder containing all seven colored panels (PNG format)
+- `README.md` — This file
+
+---
+
+## 📬 Contact
+If you'd like to connect, collaborate, or recreate your own slice-of-life manga, feel free to reach out!
+
+---
+
+Thanks for reading—and bon appétit! 🍜
