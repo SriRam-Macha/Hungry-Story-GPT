@@ -10,6 +10,21 @@ The story revolves around Priya, a tired student studying late into the evening,
 
 ---
 
+## 🧠 How This Was Made Using ChatGPT (No Drawing Required)
+
+This entire project was created using **ChatGPT with DALL·E 3 image generation capabilities**. No manual drawing, sketching, or traditional artistic skills were required. Here's how ChatGPT helped bring it to life:
+
+### ✅ What ChatGPT Did:
+- **Story Development**: Helped write and refine the storyline and dialogue.
+- **Character Consistency**: Maintained Priya’s visual style across all panels.
+- **Prompt Engineering**: Converted story scenes into detailed prompts for image generation.
+- **Image Generation**: Used built-in DALL·E 3 to create the manga panels in a cohesive anime-inspired style.
+- **File Organization**: Suggested markdown structure for repo documentation.
+
+This showcases the power of AI to assist in **visual storytelling** without the need for artistic background. Anyone with a story idea can bring it to life!
+
+---
+
 ## 🖌️ Art Style & Tools Used
 
 All the panels were generated using **AI-based image generation tools**, designed to maintain consistency in style, color palette, and character features. The style is inspired by modern colored anime/manga visuals, with a clean, warm tone.
